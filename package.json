@@ -2,7 +2,7 @@
   "name": "bs-dark-theme",
   "version": "1.0.2",
   "description": "Bootstrap dark theme",
-  "main": "bs-dark-theme.scss",
+  "main": "dist/bs-dark-theme.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

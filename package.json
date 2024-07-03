@@ -3,6 +3,12 @@
   "version": "1.1.0",
   "description": "Bootstrap dark theme",
   "main": "dist/bs-dark-theme.scss",
+  "files": [
+    "dist/bs-dark-theme.scss",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "scripts": {
     "dev": "vite"
   },

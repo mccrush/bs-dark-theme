@@ -9,6 +9,15 @@
   border-color: #495057;
 }
 
+/* Настройки цветов форм ввода */
+.form-control {
+  border-color: #343a40;
+}
+
+.form-control:focus {
+  border-color: #495057;
+}
+
 /* Настройки цветов кнопок */
 .btn.btn-dark {
   color: rgba(222, 226, 230, 0.75);

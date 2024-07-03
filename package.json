@@ -1,6 +1,6 @@
 {
   "name": "bs-dark-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bootstrap dark theme",
   "main": "bs-dark-theme.scss",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mccrush/bs-dark-theme.git"
   },
-  "author": "mccrush.ru",
+  "author": "mccrush.ru <mccrush2027@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mccrush/bs-dark-theme/issues"

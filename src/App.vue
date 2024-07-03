@@ -1,9 +1,15 @@
 <template>
   <div class="container">
-    <h1>Bootstrap dark theme</h1>
-    <p>Настраиваемые стили для темной темы Bootstrap</p>
+    <header class="border-bottom mt-4">
+      <h1>Bootstrap dark theme</h1>
+      <p>Настраиваемые стили для темной темы Bootstrap</p>
+    </header>
 
-    <button class="btn btn-dark">Dark</button>
+    <Button />
+    <ButtonGroup />
+    <Input />
+    <InputGroup />
+    <ListGroup />
   </div>
 </template>
 

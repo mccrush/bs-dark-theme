@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mccrush/bs-dark-theme/issues"
   },
-  "homepage": "https://github.com/mccrush/bs-dark-theme#readme"
+  "homepage": "https://github.com/mccrush/bs-dark-theme#readme",
+  "keywords": [
+    "Bootstrap",
+    "bootstrap dark theme",
+    "scss"
+  ]
 }

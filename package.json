@@ -1,6 +1,6 @@
 {
   "name": "bs-dark-theme",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Bootstrap dark theme",
   "main": "dist/bs-dark-theme.scss",
   "scripts": {

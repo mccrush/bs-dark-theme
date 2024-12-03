@@ -6,5 +6,10 @@
       class="form-control form-control-sm"
       placeholder="Placeholder"
     />
+    <input
+      type="text"
+      class="form-control form-control-sm mt-2"
+      value="Some text"
+    />
   </div>
 </template>

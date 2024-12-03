@@ -7,7 +7,7 @@
         class="form-control form-control-sm"
         placeholder="Placeholder"
       />
-      <button class="btn btn-dark border">Button</button>
+      <button class="btn btn-dark">Button</button>
     </div>
   </div>
 </template>
